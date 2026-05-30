@@ -1,4 +1,5 @@
 pypdf
+streamlit
 langchain_community
 langchain
 langchain-text-splitters
